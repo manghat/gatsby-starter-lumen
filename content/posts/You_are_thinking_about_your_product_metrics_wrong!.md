@@ -56,30 +56,28 @@ Metrics you choose should tell you:
 **Note:** The first time you go through defining these, you should involve leadership and representation from other departments. What you find might shock you and might even create unease in reporting them. It is important that you stay the course and followthrough on the metrics, because if they have defined them right, your path ahead will be much simpler.
 
 
-- **The North star metric:**
+**The North star metric:**
 This is the link between a(sometimes even “the”) **user problem, the product effort** and the **business goals.** A north star is meant to give clarity on the following:
+  - Alignment on what to optimise for and how to prioritise 🎯 
+  - 50,000 ft. view of success and impact of initiatives 😎 
+  - Establish (drum roll…) accountability 😰 
 
+  Having the right north star is of paramount importance as choosing the wrong one can lead to a lot of wasted time and effort. It should be a simple metric that best captures the goals. 
+  **Note:** the north star can change but only when there is a big strategy change or maybe across years.
+  A couple of examples would be :
 
-    - Alignment on what to optimise for and how to prioritise 🎯 
-    - 50,000 ft. view of success and impact of initiatives 😎 
-    - Establish (drum roll…) accountability 😰 
+  1. **Facebook** — Success — they figured out early on that their north star would be to get every user signing up to add at-least 7 other people as friends on the platform. From then on, the platform itself would take care of the engagement through social interactions and notifications
+  2. **LinkedIn** — Failure — Back in 2012, Linkedin set **Endorsement** as their north star (what endorsement? yes that’s also what I thought). This lead them to wrong priorities and 
+  [ ] Insert activities to get to a north star @Ashwin M 
 
-    Having the right north star is of paramount importance as choosing the wrong one can lead to a lot of wasted time and effort. It should be a simple metric that best captures the goals. 
-    **Note:** the north star can change but only when there is a big strategy change or maybe across years.
-    A couple of examples would be :
-
-    1. **Facebook** — Success — they figured out early on that their north star would be to get every user signing up to add at-least 7 other people as friends on the platform. From then on, the platform itself would take care of the engagement through social interactions and notifications
-    2. **LinkedIn** — Failure — Back in 2012, Linkedin set **Endorsement** as their north star (what endorsement? yes that’s also what I thought). This lead them to wrong priorities and 
-    [ ] Insert activities to get to a north star @Ashwin M 
-
-- **Leading Indicators**
+**Leading Indicators**
 This is one of the metrics that is used to indicate future business outcomes. They could be north star metrics, but not necessarily. Revenue and ARPU etc. are ***lagging indicators*** as these are metrics that are reported post to the event happening. 
 
-- **KPI(s) (Key Performance Indicator):**
+**KPI(s) (Key Performance Indicator):**
 **Measurable** **value(s**) that demonstrates how well the objective is being achieved. These should be chosen carefully to be able to reflect the progress towards/away from the goals of the company. Care should be taken to make sure that KPIs cover different dimensions of the north star metric. 
 There could also be a set of metrics for
 
-- **OKR(s) (Objectives and Key Results):**
+**OKR(s) (Objectives and Key Results):**
 This is nothing to do with the product per se, (but it may). Usually is a framework for defining and tracking people, teams and organisations. Product analytics does not as much depend on the OKRs, but different teams may have different approaches to the same. 
 
 
