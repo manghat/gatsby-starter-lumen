@@ -2,8 +2,8 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Ashwin Manghat',
+  subtitle: 'Thoughts, musings and photographs',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -23,9 +23,9 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Ashwin Manghat',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Systemic thinker | Tinker-er | Photographer',
     contacts: {
       email: 'ashwinmanghat@gmail.com',
       telegram: '#',
