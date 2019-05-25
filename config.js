@@ -27,10 +27,10 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
-      email: '#',
+      email: 'ashwinmanghat@gmail.com',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: 'ashwin_manghat',
+      github: 'manghat',
       rss: '#',
       vkontakte: '#'
     }
