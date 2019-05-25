@@ -3,7 +3,7 @@ title: Are you thinking about your product metrics wrong?
 date: "2019-05-25T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "/posts/product-metrics/"
+slug: "/posts/you-are-thinking-about-product-metrics-wrong/"
 category: "Product"
 tags:
   - "Metrics"
@@ -60,17 +60,17 @@ Metrics you choose should tell you:
 This is the link between a(sometimes even “the”) **user problem, the product effort** and the **business goals.** A north star is meant to give clarity on the following:
 
 
-  - Alignment on what to optimise for and how to prioritise 🎯 
-  - 50,000 ft. view of success and impact of initiatives 😎 
-  - Establish (drum roll…) accountability 😰 
+    - Alignment on what to optimise for and how to prioritise 🎯 
+    - 50,000 ft. view of success and impact of initiatives 😎 
+    - Establish (drum roll…) accountability 😰 
 
-  Having the right north star is of paramount importance as choosing the wrong one can lead to a lot of wasted time and effort. It should be a simple metric that best captures the goals. 
-  **Note:** the north star can change but only when there is a big strategy change or maybe across years.
-  A couple of examples would be :
+    Having the right north star is of paramount importance as choosing the wrong one can lead to a lot of wasted time and effort. It should be a simple metric that best captures the goals. 
+    **Note:** the north star can change but only when there is a big strategy change or maybe across years.
+    A couple of examples would be :
 
-  1. **Facebook** — Success — they figured out early on that their north star would be to get every user signing up to add at-least 7 other people as friends on the platform. From then on, the platform itself would take care of the engagement through social interactions and notifications
-  2. **LinkedIn** — Failure — Back in 2012, Linkedin set **Endorsement** as their north star (what endorsement? yes that’s also what I thought). This lead them to wrong priorities and 
-  [ ] Insert activities to get to a north star @Ashwin M 
+    1. **Facebook** — Success — they figured out early on that their north star would be to get every user signing up to add at-least 7 other people as friends on the platform. From then on, the platform itself would take care of the engagement through social interactions and notifications
+    2. **LinkedIn** — Failure — Back in 2012, Linkedin set **Endorsement** as their north star (what endorsement? yes that’s also what I thought). This lead them to wrong priorities and 
+    [ ] Insert activities to get to a north star @Ashwin M 
 
 - **Leading Indicators**
 This is one of the metrics that is used to indicate future business outcomes. They could be north star metrics, but not necessarily. Revenue and ARPU etc. are ***lagging indicators*** as these are metrics that are reported post to the event happening. 
