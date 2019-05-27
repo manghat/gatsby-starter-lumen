@@ -25,7 +25,7 @@ module.exports = {
   author: {
     name: 'Ashwin Manghat',
     photo: '/photo.jpg',
-    bio: 'Systemic thinker | Tinker-er | Photographer',
+    bio: 'Systemic thinker | Code Tinker-er | Photographer',
     contacts: {
       email: 'ashwinmanghat@gmail.com',
       telegram: '#',

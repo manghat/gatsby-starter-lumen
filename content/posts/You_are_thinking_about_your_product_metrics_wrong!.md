@@ -1,12 +1,13 @@
 ---
 title: Are you thinking about your product metrics wrong?
-date: "2019-05-25T22:40:32.169Z"
+date: "2019-05-25"
 template: "post"
 draft: false
 slug: "/posts/you-are-thinking-about-product-metrics-wrong/"
 category: "Product"
 tags:
   - "Metrics"
+  - "Anlytics"
 description: "Stuck with DAUs and MAUs and not being able to push the needle? You probably are not thinking about the metrics correct."
 ---
 
@@ -84,4 +85,4 @@ This is nothing to do with the product per se, (but it may). Usually is a framew
 
 Most often, there are multiple stakeholders interested in different perspectives of you product that you must be accounting for. For instance, marketing is interested in where conversions are coming form, your CXO would be interested in revenue/business health and goals, product and design would be interested in critical paths, conversions, and a lot more.
 
-Next step is to democratise the data:
+Next step is to democratise the data. 
