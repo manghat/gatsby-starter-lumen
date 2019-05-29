@@ -36,9 +36,10 @@ Think of the product as the engine of the car. Reporting on Daily Active Users (
 
 But wait, isn't that what we do? Yes, but that is not the whole picture. Looking at how fast the wheels are running now does not tell you for how much longer the engine might run, how much fuel it is consuming, or if it will deliver the same speed when the car is max-loaded, or on a slope. To figure out all the other parameters, we have engine temperature indicators, oil change indicators, fuel guages and much more. 
 
-Similarly, products are fundamentally built to help users get a job done. [Jobs to be done](link) frame of thinking, but unlike a car, each one needs its own set of guages that will indicate how the health of the product is.
+Similarly, products are fundamentally built to help users get a job done. Be it move from point A to B, order food or build a successful postitive habbit, thinking about your user looking to get a jod done, help frame the thinking. Jobs to be done - [read futher](https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca)
 
-DAUs and MAUs gives you no visibiltiy on what is happening on the product when the user is using or more importantly, why the user is **not** using it. Sometimes even the true value of the product might be elsewhere in a feature you almost paid no attention to. 
+
+If you are succeeding in helping your user succeed and to what degree is what you need to be able to figure out. DAUs and MAUs gives you no visibiltiy on what is happening on the product when the user is using it or more importantly, why the user is **not** using it. Sometimes even the true value of the product might be elsewhere in a feature you almost paid no attention to. 
 
 Like the engine, it is important to understand what the context is -- what type of load is it expected to bear, for how long should it run or how much fuel is it going to burn in doing that. 
 
@@ -49,12 +50,13 @@ Metrics you choose should tell you:
 4. indicate future success or failure.
 
 
-> Any metric that is not actioned on atleast on a weekly basis is a mertic that has started to decay.
+> Any metric that is not actioned on atleast on a weekly basis is a mertic that is decaying.
 
 
 ### Framework for  defining metrics:
 
-**Note:** The first time you go through defining these, you should involve leadership and representation from other departments. What you find might shock you and might even create unease in reporting them. It is important that you stay the course and followthrough on the metrics, because if they have defined them right, your path ahead will be much simpler.
+Putting on a fresh pair of thinking hats will need involvement from leadership and other stakeholders. Sometimes, there is lack of clarity on the definition of success itself. It is important that you stay the course to define a set of goals the team can get behind.
+Make sure you define them right, your path ahead will be much simpler.
 
 
 **The North star metric:**
@@ -65,7 +67,7 @@ This is the link between a(sometimes even “the”) **user problem, the product
 
   Having the right north star is of paramount importance as choosing the wrong one can lead to a lot of wasted time and effort. It should be a simple metric that best captures the goals. 
   **Note:** the north star can change but only when there is a big strategy change or maybe across years.
-  A couple of examples would be :
+  A couple of examples of the same:
 
   1. **Facebook** — Success — they figured out early on that their north star would be to get every user signing up to add at-least 7 other people as friends on the platform. From then on, the platform itself would take care of the engagement through social interactions and notifications
   2. **LinkedIn** — Failure — Back in 2012, Linkedin set **Endorsement** as their north star (what endorsement? yes that’s also what I thought). This lead them to wrong priorities and 
